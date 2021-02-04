@@ -1,2 +1,9 @@
 # GamersLive
-This is for those who want to embed GamersLive to their website.
+What is GamersLIve
+I made GamersLive because I as an average 15 year old like gaming, and social media. Now I wanted to find a social media site where i can chat with others about games and post about games, but there was a problem; There were barely any that worked, when I say that worked i mean you are able to view post without sign up, you can post in any group, you can make your own groups, and where you didn't have to pay for anything. Another problem was that most of the ones that did work were either too complicated to use, or were blocked. One that I used before was twitter but then I moved schools and it was blocked at my new school. And it was very annoying. So I made GamersLive 2 years after the move. GamersLive is currently in version v1.1.5. You can find GamersLive at https://gamerslive.tribe.so. If you would like to make a donation to the site please do so by going to https://retrowo1f.itch.io/gamerslive and clicking support this social media.
+
+Who made GamersLive? 
+I made GamersLive at the age of 15 in 2020, and before that I tried to make another social media called Snapped when I was 10 in fifth grade, but the problem with that was the subdomain was too hard to remember, and the site had many restrictions and it looked terrible. So five years later i made GamersLive in my first year of highschool.
+
+My new goal.
+So because GamersLive is a social media I think it should have a bigger audience than just gamers, so I want to add more groups such as (memes,covid, cars, art, dogs, animals, politics,food, ect.) I also want to give it a new name for this particular cause the only problem i have had so far is that every name I can think of is tooken, I am also looking for a logo to suit the name, so there for if you have any suggestions for the name or logo please contact me at mr.jmhowie@outlook.com.
